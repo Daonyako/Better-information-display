@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: bid
+Specification-Vendor: Daonyako
+Specification-Version: 1
+Implementation-Title: forge-1.20.1
+Implementation-Version: 1.0.0
+Implementation-Vendor: Daonyako
+Implementation-Timestamp: 2026-02-16T18:39:51+0800
+
